@@ -24,11 +24,13 @@
 
 - ```git remote -v```  -  checks if/what remote origin is connected, for testing purposes 
 
-- 'git status' - show commits and if they are pushed or not
+- '''git status''' - show commits and if they are pushed or not
 
-- 'git log' - show commits ready to be pushed
+- '''git log''' - show commits ready to be pushed
 
 - 'git clone' - copy a repo and keep it connected to same remote repo
+
+- '''git branch <branch name>' - create alternative branchgitgi
 
  
 
