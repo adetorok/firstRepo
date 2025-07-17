@@ -40,4 +40,4 @@
 
 - ```git commit -m “your message here”``` - create a message for that specific version of your project
 
-- ```git push origin main```
+- ```git push origin main``` - push the information to github ( if you add -m it will remember and all you use not is get push)
